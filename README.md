@@ -2,7 +2,7 @@
 
 This is a workshop I taught at the Incubate Arcade 2016 in Tilburg, NL. 
 It is a workshop for adults, with varying skill levels and backgrounds, 
-designed to be a look into building physical games with technology. 
+designed to be an introductory look into building physical games with technology. 
 
 Included are: 
 * Arduino code for Miniature Tag example game
