@@ -11,7 +11,6 @@ Included are:
   diagram for building circuit board
 
 Kaho Abe
---------------------------------
 http://github.com/kahodesu
 @kahodesu on twitter
 http://kahoabe.net
