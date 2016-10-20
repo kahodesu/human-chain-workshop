@@ -60,6 +60,6 @@ go over quickly what the code means
 
 Kaho Abe
 
-* http://github.com/kahodesu
-* @kahodesu on twitter
-* http://kahoabe.net
+    http://github.com/kahodesu
+    @kahodesu on twitter
+    http://kahoabe.net
